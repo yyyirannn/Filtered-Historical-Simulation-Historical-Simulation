@@ -1,0 +1,2 @@
+# Filtered-Historical-Simulation-Historical-Simulation
+ Get the closing price of BAC from January 3rd 2000 to March 24th 2017, estimate the daily 1% VaR using the parametric GARCH(1,1) model and FHS, to see if the returns of the Bank of America stock unconditionally normally distributed during this period.  Are returns of the Bank of America stock conditionally normally distributed if you standardize the returns with volatility estimated from a GARCH(1,1) model? Compare with AAPL and BP.
